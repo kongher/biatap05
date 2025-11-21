@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 // Định nghĩa Retrofit Client (Singleton)
 object RetrofitClient {
     // ĐƯỜNG DẪN API CƠ SỞ THEO YÊU CẦU
-    private const val BASE_URL = "http://app.iotstar.vn/appfoods/"
+    private const val BASE_URL = "http://app.iotstar.vn:8081/appfoods/"
 
     // Lazy initialization (khởi tạo khi được dùng lần đầu)
     // SỬ DỤNG 'val' (Kotlin) thay vì 'static Retrofit' (Java)
