@@ -1,0 +1,1 @@
+Kết quả <img width="282" height="603" alt="image" src="https://github.com/user-attachments/assets/f0cfb002-e0b1-4b7a-8748-771846e929d8" />
